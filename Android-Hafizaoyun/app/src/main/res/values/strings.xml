@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hafizaoyun</string>
+    <string name="isim">İsim Giriniz</string>
+    <string name="giristxt">Welcome!! :-)</string>
+    <string name="bStart">Oyuna Başla</string>
+    <string name="yaz" />
+</resources>
